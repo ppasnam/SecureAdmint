@@ -6,12 +6,12 @@
 >>
 >> _Setup_ : 
 >> - Download the appropriate setup file in the Setup folder
-<br>
+>>
 >> - Start using the app
 >>
 >
 >> _Warnings_ :
-<br>
+>>
 >> - Discord developers > bot > make sure intents are turned on
 >>
 >> ![Warning](.github/media/intents.png)
